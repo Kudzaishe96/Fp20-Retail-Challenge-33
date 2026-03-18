@@ -1,1 +1,18 @@
-Power bi report
+# FP20 DATA VISUALISATION CHALLENGE 33
+Retail Dataset 
+
+# Table Of Contents
+
+This project seeks to
+
+### Data Source
+FINOPPS Data:A csv file provided by the organisation ,which contains the relevant data for analysis and comparison.
+
+### Tools
+- Power BI 
+
+
+### Data Extraction and Cleaning
+1. Used Power BI to extract the excel file to load it to Power Query window.
+2. Substituted null values with the median values for the following columns(bathrooms,square meters monthly rent,price_per_sqm) and average values for (sales_price)
+3. 
